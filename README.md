@@ -8,7 +8,7 @@ It's a great opportunity to check out basic text processing techniques and model
 https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ## Your Assignment:
-a) Try some text cleaning techniques from the list below (at least 2). Does any of it improved your model quality? Try to assume why.
+a) Try some text cleaning techniques from the list below. Does any of it improved your model quality? Try to assume why.
 - stop words removing
 - punctuation removing
 - Trash (Extra spaces / special symbols (like @#~<> etc)) removing
