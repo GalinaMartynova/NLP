@@ -4,6 +4,7 @@
 ## Intro
 This lab concluded within the ML course refers to NLP problems such as texts classification.  
 It's a great opportunity to check out basic text processing techniques and models.
+https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 
 ## Your Assignment:
 a) Try some text cleaning techniques from the list below (at least 2). Does any of it improved your model quality? Try to assume why.
